@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '1623'
     url: http://www.gutenberg.org/2009/agents/1623
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45507#The-Pony-Rider-Boys-in-Louisianaor-Following-the-Game-Trails-in-the-Canebrake
 gutenberg_issued: '2014-04-27'
 gutenberg_type: Text
 identifiers:
