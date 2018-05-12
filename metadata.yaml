@@ -1,0 +1,28 @@
+_repo: The-Pony-Rider-Boys-in-Louisianaor-Following-the-Game-Trails-in-the-Canebrake_45507
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45507-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Patchin, Frank Gee
+    alias: Patchin, Frank Glines
+    birthdate: 1861
+    deathdate: 1925
+    gutenberg_agent_id: '1623'
+    url: http://www.gutenberg.org/2009/agents/1623
+description: ''
+gutenberg_issued: '2014-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45507'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Louisiana -- Juvenile fiction'
+- !lcsh 'Horsemanship -- Juvenile fiction'
+title: The Pony Rider Boys in Louisiana; or, Following the Game Trails in the Canebrake
+url: http://www.gutenberg.org/ebooks/45507
